@@ -77,7 +77,7 @@ async function login() {
       localStorage.setItem('currentUser', JSON.stringify(currentUser));
       initApp();
     } else {
-      alert('Invalid credentials');
+      alert('Email Not Found');
     }
   } catch (error) {
     alert('Error: ' + error.message);
