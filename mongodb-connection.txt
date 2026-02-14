@@ -1,0 +1,49 @@
+========================================
+MongoDB Compass Connection Details
+========================================
+
+CONNECTION STRING (Copy this):
+mongodb+srv://priyanshuguptaiit99:End8iE9Rn7O5gnaN@cluster0.g2s3oe1.mongodb.net/
+
+DATABASE NAME:
+test
+
+========================================
+Manual Connection Details:
+========================================
+
+Host: cluster0.g2s3oe1.mongodb.net
+Port: 27017 (default)
+Username: priyanshuguptaiit99
+Password: End8iE9Rn7O5gnaN
+Authentication Database: admin
+SSL: Enabled
+
+========================================
+Your Collections:
+========================================
+
+✅ users (2 documents)
+✅ posts (3 documents)
+✅ notifications (2 documents)
+✅ statuses (1 document)
+✅ messages (0 documents)
+
+========================================
+Quick Start:
+========================================
+
+1. Install MongoDB Compass:
+   brew install --cask mongodb-compass
+
+2. Open MongoDB Compass
+
+3. Click "New Connection"
+
+4. Paste the connection string above
+
+5. Click "Connect"
+
+6. Browse your data!
+
+========================================
